@@ -11,7 +11,7 @@ public class EmployeeManagementSystem {
 		employees[2] = new Developer("Godsway Kojo Nyatuame",3,15000,"Cypress");
 		employees[3] = new Developer("Godfred Harrison Amoah",4,15000,"Javascript");
 		employees[4] = new Developer("Isaac Ampomah",5,15000,"AngularJs");
-		employees[5] = new Developer("Usman Abdul Matin",5,200000,"Python");
+		employees[5] = new Developer("Usman Abdul Matin",1,200000,"Python");
 		
 		
 		for(Employee employee: employees) {
