@@ -4,7 +4,7 @@ public class EmployeeManagementSystem {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		Employee [] employees = new Employee[56;
+		Employee [] employees = new Employee[6];
 		
 		employees[0] = new Manager("Abaidoo Prince",1,20000,"FrontEnd");
 		employees[1] = new Manager("Adolf Menano",2,30000,"Software Tester");
